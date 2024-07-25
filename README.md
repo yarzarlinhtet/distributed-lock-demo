@@ -22,7 +22,7 @@ mvn spring-boot:test-run
 
 > [GET] http://localhost:8081/api/vote 
 > 
-> [GET] http://localhost:8081/api/result
+> [GET] http://localhost:8081/api/vote/result
 
 
 
